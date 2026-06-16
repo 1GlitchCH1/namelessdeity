@@ -1,0 +1,4 @@
+displayName = Nameless Deity Green Screen
+author = You
+version = 1.0.0
+modReferences = CalamityMod, NoxusBoss
