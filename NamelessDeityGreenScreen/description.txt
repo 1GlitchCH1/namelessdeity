@@ -1,4 +1,0 @@
-Freezes the Nameless Deity boss in its idle animation and renders a green screen background behind it.
-Useful for recording GIFs or footage of the boss.
-
-Requires Calamity Mod.
