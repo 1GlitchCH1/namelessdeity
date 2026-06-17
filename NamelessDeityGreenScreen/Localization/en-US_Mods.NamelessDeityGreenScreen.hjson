@@ -1,0 +1,18 @@
+Keybinds.ToggleUI.DisplayName: Toggle UI
+
+Configs: {
+	NamelessDeityGreenScreenConfig: {
+		DisplayName: Green Screen Settings
+		Headers.ChromaKey: Chroma Key
+
+		BackgroundColor: {
+			Label: Background Color
+			Tooltip:
+				'''
+				Solid colour rendered behind the frozen boss.
+				Change this to match your chroma-key workflow.
+				Default: Spring Green (R:0 G:255 B:127 / #00FF7F)
+				'''
+		}
+	}
+}

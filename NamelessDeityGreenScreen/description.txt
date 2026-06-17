@@ -1,0 +1,10 @@
+Freezes the Nameless Deity boss in its idle animation and renders a solid
+green screen background behind it. Useful for recording GIFs or footage.
+
+The boss will play its intro cutscene fully so all parts load correctly,
+then freeze in place with full animations running (wings, hands, vines).
+
+Press F10 to toggle all in-game UI (hotbar, health bar, boss bar, etc.)
+on and off for a clean recording frame.
+
+Requires Calamity Mod.
